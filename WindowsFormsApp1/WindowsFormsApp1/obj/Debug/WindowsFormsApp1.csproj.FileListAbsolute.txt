@@ -1,0 +1,17 @@
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AboutBox1.resources
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmMain.resources
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmCategory.resources
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmAddNewSeller.resources
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddAdmin.resources
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.AddProduct.resources
+F:\ASP.Net ( C#)\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.SellingForm.resources
